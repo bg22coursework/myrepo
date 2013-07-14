@@ -100,3 +100,9 @@
    100	foo
 
 -----my own end of file----
+
+This is starting of new line.
+
+stuff..
+
+
